@@ -4,11 +4,11 @@ Computer Engineer focused on Autonomous Systems, AI, Robotics, and Computer Visi
 
 ## Featured Projects
 
-🚁 Autonomous Combat UAV
-ROS2, Gazebo, PX4, MAVLink, YOLO, Kalman Filtering, Sensor Fusion
-
 🤖 LLM-Powered ERP Analytics System
 RAG, Multi-Agent Systems, NL-to-SQL, Vector Search
+
+🚁 Autonomous Combat UAV
+ROS2, Gazebo, PX4, MAVLink, YOLO, Kalman Filtering, Sensor Fusion
 
 ⚽ RoboKeeper
 Stereo Vision, Trajectory Prediction, Robotics
