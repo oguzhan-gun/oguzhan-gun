@@ -5,9 +5,9 @@ Computer Engineer focused on Autonomous Systems, Computer Vision, Reinforcement 
 ## About Me
 
 * Computer Engineering Graduate
-* Teknofest Autonomous Combat UAV Competitor
 * AI & Robotics Developer
 * Research Interests: Embodied AI, Multi-Agent Systems, Reinforcement Learning, Computer Vision, LLM Agents
+* Teknofest Autonomous Combat UAV Competitor
 
 ## Technical Skills
 
