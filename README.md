@@ -24,8 +24,8 @@ PyTorch • TensorFlow • Transformers • OpenCV • YOLO • MediaPipe • XG
 Robotics:
 ROS2 • Gazebo • PX4 • ArduPilot • MAVLink
 
-Programming:
-Python • C++ • Linux • PostgreSQL • Git
+Programming & Tools:
+Python • C++ • SQL • PostgreSQL • Linux • Git
 
 ## Research Interests
 
