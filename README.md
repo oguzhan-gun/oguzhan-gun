@@ -1,80 +1,36 @@
 # Oğuzhan Gün
 
-Computer Engineer focused on Autonomous Systems, Computer Vision, Reinforcement Learning, and Embodied AI.
-
-## About Me
-
-* Computer Engineering Graduate
-* AI & Robotics Developer
-* Research Interests: Embodied AI, Multi-Agent Systems, Reinforcement Learning, Computer Vision, LLM Agents
-* Teknofest Autonomous Combat UAV Competitor
-
-## Technical Skills
-
-### Programming Languages
-
-* Python
-* C++
-* SQL
-
-### Artificial Intelligence
-
-* Machine Learning
-* Deep Learning
-* Reinforcement Learning
-* Computer Vision
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Multi-Agent Systems
-
-### Robotics & Autonomous Systems
-
-* ROS 2
-* Gazebo
-* PX4
-* MAVLink
-* Sensor Fusion
-* Kalman Filtering
-* PID Control
-* Predictive Guidance
-
-### Tools & Technologies
-
-* OpenCV
-* TensorFlow
-* Torch
-* Linux
-* Git
-* SQL Server
+Computer Engineer focused on Autonomous Systems, AI, Robotics, and Computer Vision.
 
 ## Featured Projects
 
-### Autonomous Combat UAV
+🚁 Autonomous Combat UAV
+ROS2, Gazebo, PX4, MAVLink, YOLO, Kalman Filtering, Sensor Fusion
 
-ROS 2 and Gazebo based autonomous aerial combat platform featuring YOLO-powered target tracking, sensor fusion, predictive state estimation, and autonomous interception.
+🤖 LLM-Powered ERP Analytics System
+RAG, Multi-Agent Systems, NL-to-SQL, Vector Search
 
-### LLM-Powered ERP Analytics System
+⚽ RoboKeeper
+Stereo Vision, Trajectory Prediction, Robotics
 
-Natural language interface for ERP systems using RAG, BM25, vector embeddings, SQL generation, and multi-agent LLM workflows.
+🥊 MMA-AI
+CNN-LSTM, XGBoost, Computer Vision
 
-### RoboKeeper
+## Technologies
 
-Stereo vision-based perception and trajectory prediction system developed in C++ using physics-informed motion modeling.
+AI/ML:
+PyTorch • TensorFlow • Transformers • OpenCV • YOLO • MediaPipe • XGBoost
 
-### MMA Prediction System
+Robotics:
+ROS2 • Gazebo • PX4 • ArduPilot • MAVLink
 
-CNN-LSTM and XGBoost based machine learning system for fight outcome and early finish prediction.
+Programming:
+Python • C++ • Linux • PostgreSQL • Git
 
 ## Research Interests
 
-* Reinforcement Learning
-* Multi-Agent Systems
-* Embodied AI
-* Autonomous UAVs
-* State Estimation
-* Computer Vision
-* LLM Agents
-* Robotics
+Reinforcement Learning • Embodied AI • Multi-Agent Systems
+
 
 ## Contact
 
